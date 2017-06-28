@@ -1,0 +1,56 @@
+D:\HelloBot\HelloBot\bin\Bot Application.dll.config
+D:\HelloBot\HelloBot\bin\Bot Application.dll
+D:\HelloBot\HelloBot\bin\Bot Application.pdb
+D:\HelloBot\HelloBot\bin\Autofac.dll
+D:\HelloBot\HelloBot\bin\Chronic.dll
+D:\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.dll
+D:\HelloBot\HelloBot\bin\Microsoft.Bot.Connector.dll
+D:\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\HelloBot\HelloBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\HelloBot\HelloBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\HelloBot\HelloBot\bin\Newtonsoft.Json.dll
+D:\HelloBot\HelloBot\bin\StacMan.dll
+D:\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\HelloBot\HelloBot\bin\System.Net.Http.Formatting.dll
+D:\HelloBot\HelloBot\bin\System.Web.Http.dll
+D:\HelloBot\HelloBot\bin\System.Web.Http.WebHost.dll
+D:\HelloBot\HelloBot\bin\Autofac.xml
+D:\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.xml
+D:\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\HelloBot\HelloBot\bin\Microsoft.Bot.Connector.xml
+D:\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\HelloBot\HelloBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\HelloBot\HelloBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\HelloBot\HelloBot\bin\Newtonsoft.Json.xml
+D:\HelloBot\HelloBot\bin\StacMan.pdb
+D:\HelloBot\HelloBot\bin\StacMan.xml
+D:\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\HelloBot\HelloBot\bin\System.Net.Http.Formatting.xml
+D:\HelloBot\HelloBot\bin\System.Web.Http.xml
+D:\HelloBot\HelloBot\bin\System.Web.Http.WebHost.xml
+D:\HelloBot\HelloBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\HelloBot\HelloBot\obj\Debug\Bot Application.dll
+D:\HelloBot\HelloBot\obj\Debug\Bot Application.pdb
+D:\HelloBot\HelloBot\obj\Debug\HelloBot.csprojResolveAssemblyReference.cache
+D:\HelloBot\HelloBot\bin\Google.Apis.Core.dll
+D:\HelloBot\HelloBot\bin\Google.Apis.Customsearch.v1.dll
+D:\HelloBot\HelloBot\bin\Google.Apis.dll
+D:\HelloBot\HelloBot\bin\Google.Apis.PlatformServices.dll
+D:\HelloBot\HelloBot\bin\System.Net.Http.dll
+D:\HelloBot\HelloBot\bin\System.Security.Cryptography.Algorithms.dll
+D:\HelloBot\HelloBot\bin\System.Security.Cryptography.Encoding.dll
+D:\HelloBot\HelloBot\bin\System.Security.Cryptography.Primitives.dll
+D:\HelloBot\HelloBot\bin\System.Security.Cryptography.X509Certificates.dll
+D:\HelloBot\HelloBot\bin\Google.Apis.xml
+D:\HelloBot\HelloBot\bin\Google.Apis.Core.xml
+D:\HelloBot\HelloBot\bin\Google.Apis.Customsearch.v1.xml
